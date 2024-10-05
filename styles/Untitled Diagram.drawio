@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="pO6TNVzMdWktr5K6tvmv">
-    <mxGraphModel>
+    <mxGraphModel dx="1100" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bn_Vgx124p7M65Zn19ax-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="540" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-3" value="frontend&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bn_Vgx124p7M65Zn19ax-10" target="bn_Vgx124p7M65Zn19ax-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-10" value="&lt;div&gt;React js&lt;/div&gt;&lt;div&gt;Next&amp;nbsp; js&lt;/div&gt;&lt;div&gt;tailwind css and css&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="210" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="610" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bn_Vgx124p7M65Zn19ax-17" target="bn_Vgx124p7M65Zn19ax-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-17" value="webapp" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bn_Vgx124p7M65Zn19ax-18" target="bn_Vgx124p7M65Zn19ax-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bn_Vgx124p7M65Zn19ax-18" target="bn_Vgx124p7M65Zn19ax-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bn_Vgx124p7M65Zn19ax-20" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
